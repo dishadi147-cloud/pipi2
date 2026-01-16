@@ -6,8 +6,7 @@ int main() {
         int main() {
             int number;
 
-            
-
+           
 
             return 0;
         }
