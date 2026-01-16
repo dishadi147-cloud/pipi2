@@ -3,16 +3,3 @@
 int main() {
   
         printf("Число %d - чётное.\n", number);
-    }
-    else {
-        printf("Число %d - нечётное.\n", number);
-    }
-
-    return 0;
-}
- else {
-     printf("Число %d - нечётное.\n", number);
-    }
-
-    return 0;
-}
