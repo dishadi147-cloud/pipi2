@@ -10,3 +10,9 @@ int main() {
 
     return 0;
 }
+ else {
+     printf("Число %d - нечётное.\n", number);
+    }
+
+    return 0;
+}
