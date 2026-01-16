@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    int number;
-
   
         printf("„исло %d - чЄтное.\n", number);
     }
