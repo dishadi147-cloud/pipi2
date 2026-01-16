@@ -8,12 +8,6 @@ int main() {
 
             
 
-            if (number % 2 == 0) {
-                printf("Число %d - чётное.\n", number);
-            }
-            else {
-                printf("Число %d - нечётное.\n", number);
-            }
 
             return 0;
         }
